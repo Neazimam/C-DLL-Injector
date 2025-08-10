@@ -1,0 +1,7 @@
+﻿  Esp Line.cpp
+D:\Windows Kits\10\Include\10.0.22000.0\um\winver.h(139,13): warning C4551: function call missing argument list
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 140 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Esp Line.vcxproj -> C:\Users\neazi\source\repos\Esp Line\Release\Esp Line.exe

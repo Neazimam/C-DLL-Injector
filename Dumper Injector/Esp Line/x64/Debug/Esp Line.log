@@ -1,0 +1,10 @@
+﻿D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Esp Line.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Esp Line.cpp
+D:\VS\VC\Tools\MSVC\14.44.35207\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+D:\Programming Project Files\C++\Dumper Injector\Esp Line\Esp Line.cpp(11,21): error C2039: 'filesystem': is not a member of 'std'
+      D:\VS\VC\Tools\MSVC\14.44.35207\include\chrono(45,1):
+      see declaration of 'std'
+  
+D:\Programming Project Files\C++\Dumper Injector\Esp Line\Esp Line.cpp(11,21): error C2878: 'filesystem': a namespace or class of this name does not exist
+D:\Programming Project Files\C++\Dumper Injector\Esp Line\Esp Line.cpp(123,10): error C2653: 'fs': is not a class or namespace name
+D:\Programming Project Files\C++\Dumper Injector\Esp Line\Esp Line.cpp(123,14): error C3861: 'exists': identifier not found
